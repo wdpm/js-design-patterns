@@ -47,7 +47,7 @@ var log = (function () {
             log += msg + "\n";
         },
         show: function () {
-            alert(log);
+            console.log(log);
             log = "";
         }
     }
@@ -71,4 +71,5 @@ function run() {
     log.show();
 }
 
+run();
 
