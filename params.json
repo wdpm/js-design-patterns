@@ -1,0 +1,6 @@
+{
+  "name": "Js-design-patterns",
+  "tagline": "js-design-patterns",
+  "body": "# JavaScript Design Patterns\r\n### Creational Patterns(5)\r\n1. Abstract Factory ★★★\r\n2. Builder ★\r\n3. Factory Method ★★★★\r\n4. Prototype ★★★★★\r\n5. Singleton ★★★★★\r\n\r\n### Structural Patterns(7)\r\n1. Adapter ★★★★\r\n2. Bridge ★\r\n3. Composite ★★★★★\r\n4. Decorator ★★★★\r\n5. Facade ★★★★★\r\n6. Flyweight\r\n7. Proxy\r\n\r\n### Behavioral Patterns(11)\r\n1. Chain of Resp.\r\n2. Command\r\n3. Interpreter\r\n4. Iterator\r\n5. Mediator\r\n6. Memento\r\n7. Observer\r\n8. State\r\n9. Strategy\r\n10. Template Method\r\n11. Visitor\r\n\r\n# Reference Link\r\n> http://www.dofactory.com/javascript/design-patterns",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
