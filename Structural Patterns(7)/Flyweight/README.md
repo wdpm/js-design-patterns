@@ -13,3 +13,4 @@ The objects participating in this pattern are:
     - stores newly created flyweights for future requests
 - Flyweight -- In sample code: Flyweight
     - maintains intrinsic data to be shared across the application
+    
